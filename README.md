@@ -4,7 +4,7 @@ A simple XMR mining application
 
 ## Getting Started
 
-Requires [Python 3.7](https://www.python.org/downloads/release/python-2717/) to run SimpleMiner. Then double click or run
+Requires [Python 3.7](https://www.python.org/downloads/release/python-2717/) to run SimpleMiner. Whitelist /bin/ in your antivirus, [Why?](https://coinguides.org/miner-detected-virus/) Then double click or run
 
 ```bash
 python sm.py
