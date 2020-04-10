@@ -1,10 +1,10 @@
 from Tkinter import *
-from time import *
 import os
+import subprocess
 
 
 cmd='config.bat '
-tskend='taskkill /F /IM python.exe /T'
+
 
 
 master = Tk()
@@ -13,14 +13,17 @@ e = Entry(master)
 e.pack()
 
 e.focus_set()
+def taskend():
+   subprocess.call("taskkill /f /im xmrig.exe", shell=True)
+   quit()
 
 def callback():
    xmr=e.get()
    print xmr
-   os.system(cmd+xmr)
+   subprocess.Popen(cmd+xmr)
 start = Button(master, text="Start mining", width=10, command=callback)
 start.pack()
-stop = Button(master, text="Stop MinIng", width=10, command=tskend)
+stop = Button(master, text="Stop MinIng", width=10, command=taskend)
 stop.pack()
 
 
