@@ -9,6 +9,10 @@ Requires [Python 3.7](https://www.python.org/downloads/release/python-2717/) to 
 ```bash
 python sm.py
 ```
+## Mining Algorithims Suported
+RandomXmonero-[XMRig](https://github.com/xmrig/xmrig) v 5.10.0
+More coming soon...
+
 
 
 ## Contributing
