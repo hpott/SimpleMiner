@@ -1,6 +1,6 @@
 # SimpleMiner
 
-A simple XMR mining application using pool minexmr
+A simple windows XMR mining application using pool minexmr
 
 ## Getting Started
 
