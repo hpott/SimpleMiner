@@ -1,4 +1,4 @@
-# !!WORK IN PROGRESS" SimpleMiner
+# SimpleMiner (WORK IN PROGRESS, UNSTABLE)
 
 A simple XMR mining application
 
