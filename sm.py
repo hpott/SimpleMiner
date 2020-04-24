@@ -23,7 +23,7 @@ def callback():
    subprocess.Popen(cmd+xmr)
 start = Button(master, text="Start mining", width=10, command=callback)
 start.pack()
-stop = Button(master, text="Stop MinIng", width=10, command=taskend)
+stop = Button(master, text="Stop Mining", width=10, command=taskend)
 stop.pack()
 
 
