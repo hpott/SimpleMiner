@@ -1,11 +1,12 @@
 # SimpleMiner
 
-A simple windows XMR and ETH(Beta) mining application writted in python.\
+A simple windows XMR and ETH(Beta) mining application written in python.\
 Linux Support coming soon
 
 ## Getting Started
 
-Requires [Python 3.7](https://www.python.org/downloads/release/python-2717/) to run SimpleMiner and TKinter. Alternatively just use the binaries under releases.\ Whitelist /bin/ in your antivirus[(Why?)](https://coinguides.org/miner-detected-virus/). 
+Requires [Python 3.7](https://www.python.org/downloads/release/python-2717/) to run SimpleMiner and TKinter. Alternatively just use the binaries under releases.\
+Whitelist /bin/ in your antivirus[(Why?)](https://coinguides.org/miner-detected-virus/). 
 __Ethereum Mining is still in beta. Use it if you want to but it's not completely finished__
 
 ## Default Pools
