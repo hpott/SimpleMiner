@@ -12,8 +12,8 @@ python sm.py
 
 To check balance enter your mining address [here](https://minexmr.com/#worker_stats).
 ## Mining Algorithims Suported
-RandomXmonero-[XMRig](https://github.com/xmrig/xmrig) v 5.10.0
-
+RandomXmonero-[XMRig](https://github.com/xmrig/xmrig) v 5.11.0
+DaggerHashimoto-[Claymore's](https://github.com/Claymore-Dual/Claymore-Dual-Miner) v 15.0
 More coming soon...
 
 
